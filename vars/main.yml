@@ -28,3 +28,4 @@ commands:
     user:                       'root'
     chdir:                      '/usr/local/src/temper-usb/'
     creates:                    '/usr/local/bin/temperv14'
+
